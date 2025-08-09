@@ -1,3 +1,4 @@
+#WE USE FOR LOOPS WHEN WE KNOW HOW MANY TIMES WE WANT TO REPEAT SOMETHING
 #Print numbers from 1 to 10
 for i in range(11):
     print(i)
